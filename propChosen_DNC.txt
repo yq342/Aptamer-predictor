@@ -1,0 +1,6 @@
+Shift
+Slide
+Rise
+Tilt
+Roll
+Twist
