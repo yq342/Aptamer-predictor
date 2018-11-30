@@ -11,14 +11,14 @@ or use the following command if Internet is accessible:
 > pip install numpy
 
 For Windows operating system, the Windows 7 or later versions are supported. The next step is the installation and configuration 
-of LIBSVM. Extract the package to a directory. After un-zip the downloaded Pse-in-One 2.0 package, make sure that the ¡°libsvm.dll¡± 
-is available in the directory ¡°¡­\libsvm\windows¡±
+of LIBSVM. Extract the package to a directory. After un-zip the downloaded Pse-in-One 2.0 package, make sure that the “libsvm.dll” 
+is available in the directory “…\libsvm\windows”
 
 For Linux operating system, the LIBSVM should be configured firstly. Un-zip the Pse-Analysis package to a folder, for example, 
-¡°~/usr¡±. Navigate to ¡°~/usr/Pse-in-One 2.0/libsvm¡± directory, and type the command:
+“~/usr”. Navigate to “~/usr/Pse-in-One 2.0/libsvm” directory, and type the command:
 > make
 
-After executing successfully, then navigate to ¡°~/usr/ Pse-in-One 2.0/libsvm/python¡± directory, and type the command:
+After executing successfully, then navigate to “~/usr/ Pse-in-One 2.0/libsvm/python” directory, and type the command:
 > make
 
 If gnuplot has not been installed, use the following command lines to install gnuplot:
